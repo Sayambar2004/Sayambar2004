@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/theoryman_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theoryman_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayambar-roy-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayambar-roy-chowdhury" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayambar-roy-chowdhury-731b0a282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayambar-roy-chowdhury-731b0a282" height="30" width="40" /></a>
 <a href="https://kaggle.com/sayambarroychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayambarroychowdhury" height="30" width="40" /></a>
 <a href="https://instagram.com/theoryman_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theoryman_07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saheb_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saheb_07" height="30" width="40" /></a>
