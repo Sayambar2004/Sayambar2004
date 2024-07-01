@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sayambarroychowdhury@gmail.com**
 
-- ⚡ Fun fact **I'm a very amateur developer**
+- ⚡ Fun fact **I love solving complex problems and am always up for a challenge, be it in data science or in a game of chess!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
